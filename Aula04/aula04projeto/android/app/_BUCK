@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.aula04projeto",
+    package = "com.aula04",
 )
 
 android_resource(
     name = "res",
-    package = "com.aula04projeto",
+    package = "com.aula04",
     res = "src/main/res",
 )
 
